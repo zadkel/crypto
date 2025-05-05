@@ -1,4 +1,4 @@
-import math #pollard Rho 소인수분해
+import math #pollard Rho 소인수분해.
 import sympy
 
 def F(x,N):
